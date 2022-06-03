@@ -1,8 +1,8 @@
 ## Wireframes
-![Home Page](/assets/homepage.png)<br />
+![Home Page](/assets-wireframe/homepage.png)<br />
 
-![Project Page](/assets/projectpage.png)<br />
+![Project Page](/assets-wireframe/projectpage.png)<br />
 
-![Resume Page](/assets/resumepage.png)<br />
+![Resume Page](/assets-wireframe/resumepage.png)<br />
 
-![Contact Page](/assets/contactpage.png)
+![Contact Page](/assets-wireframe/contactpage.png)
