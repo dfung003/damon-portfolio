@@ -4171,7 +4171,7 @@ body.is-preload #banner p {
 
 /* Footer */
 
-#footer .inner {
+#contact .inner {
 	padding: 5em 0 3em 0;
 	display: -moz-flex;
 	display: -webkit-flex;
@@ -4189,20 +4189,20 @@ body.is-preload #banner p {
 	width: 55em;
 }
 
-#footer .inner>* {
+#contact .inner>* {
 	width: 100%;
 }
 
-#footer .inner form {
+#contact .inner form {
 	margin: 0 3em 0 0;
 	width: calc(50% - 1.5em);
 }
 
-#footer .inner .contact {
+#contact .inner .contact {
 	width: calc(50% - 1.5em);
 }
 
-#footer .inner .copyright {
+#contact .inner .copyright {
 	border-top: solid 2px rgba(255, 255, 255, 0.125);
 	list-style: none;
 	margin: 4em 0 2em 0;
@@ -4210,7 +4210,7 @@ body.is-preload #banner p {
 	width: 100%;
 }
 
-#footer .inner .copyright li {
+#contact .inner .copyright li {
 	border-left: solid 2px rgba(255, 255, 255, 0.125);
 	color: rgba(255, 255, 255, 0.35);
 	display: inline-block;
@@ -4221,19 +4221,19 @@ body.is-preload #banner p {
 	padding-left: 1em;
 }
 
-#footer .inner .copyright li:first-child {
+#contact .inner .copyright li:first-child {
 	border-left: 0;
 	margin-left: 0;
 	padding-left: 0;
 }
 
-#footer .inner .copyright li a {
+#contact .inner .copyright li a {
 	color: inherit;
 }
 
 @media screen and (max-width: 1280px) {
 
-	#footer {
+	#contact {
 		background-color: #2e3141;
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 		background-size: auto,
@@ -4248,28 +4248,28 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 980px) {
 
-	#footer {
+	#contact {
 		margin-top: -4.75em;
 		padding-top: 4.75em;
 	}
 
-	#footer .inner {
+	#contact .inner {
 		padding: 3em 3em 1em 3em;
 		display: block;
 		width: 100%;
 	}
 
-	#footer .inner form {
+	#contact .inner form {
 		width: 100%;
 		margin: 0 0 4em 0;
 	}
 
-	#footer .inner .contact {
+	#contact .inner .contact {
 		width: 100%;
 		margin: 0 0 4em 0;
 	}
 
-	#footer .inner .copyright {
+	#contact .inner .copyright {
 		margin: 4em 0 2em 0;
 	}
 
@@ -4277,20 +4277,20 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 736px) {
 
-	#footer {
+	#contact {
 		margin-top: -2.5em;
 		padding-top: 2.5em;
 	}
 
-	#footer .inner {
+	#contact .inner {
 		padding: 2em 2em 0.1em 2em;
 	}
 
-	#footer .inner form {
+	#contact .inner form {
 		margin: 0 0 3em 0;
 	}
 
-	#footer .inner .contact {
+	#contact .inner .contact {
 		margin: 0 0 3em 0;
 	}
 
@@ -4298,14 +4298,14 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 480px) {
 
-	#footer .inner .copyright li {
+	#contact .inner .copyright li {
 		border-left: 0;
 		display: block;
 		margin: 1em 0 0 0;
 		padding-left: 0;
 	}
 
-	#footer .inner .copyright li:first-child {
+	#contact .inner .copyright li:first-child {
 		margin-top: 0;
 	}
 
@@ -4313,7 +4313,7 @@ body.is-preload #banner p {
 
 @media screen and (max-width: 360px) {
 
-	#footer .inner {
+	#contact .inner {
 		padding: 2em 1.5em 0.1em 1.5em;
 	}
 
